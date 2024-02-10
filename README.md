@@ -1,2 +1,2 @@
 # recipes
-Recipes site
+Recipes site for first Odin Project

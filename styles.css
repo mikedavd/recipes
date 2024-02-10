@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+    font-family: "Verdana", sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h3 {
+    font-style: bold;
+    color: red;
+}
+
+.link {
+    font-size: 32px;
+}
+
+.ingredients {
+    font-style: italic;
+}
